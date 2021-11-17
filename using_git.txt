@@ -1,0 +1,17 @@
+In /Users/fal/.ssh, config has been set up to allow personal user to be used.
+
+S/O solution used: https://stackoverflow.com/a/33079036
+
+HOW TO USE
+
+instead of
+
+'''
+git clone git@github.com:Faisal2017/tp_code_projects.git
+'''
+
+change the git ref to use personal profile i.e.
+
+'''
+git clone git@github_faisal:Faisal2017/tp_code_projects.git
+'''
